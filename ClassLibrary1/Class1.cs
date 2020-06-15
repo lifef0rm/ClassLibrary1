@@ -11,7 +11,7 @@ namespace ClassLibrary1
         void DoSomething()
         {
             var sb = new StringBuilder();
-            sb.AppendLine("allo");
+            sb.AppendLine("allo2");
         }
     }
 }
